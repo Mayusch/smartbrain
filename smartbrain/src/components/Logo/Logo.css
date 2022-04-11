@@ -1,0 +1,7 @@
+.Tilt {
+    background: linear-gradient(75deg, rgba(196,37,103, 06), rgba(85, 215, 160, 10));
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}

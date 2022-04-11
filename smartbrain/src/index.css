@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: "Courier New", BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(75deg, rgba(196,37,103, 06), rgba(85, 215, 160, 10));
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+button {
+  cursor: pointer;
+}
+
+
